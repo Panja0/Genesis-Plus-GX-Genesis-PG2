@@ -2124,7 +2124,7 @@ int sdl_input_update(void)
             if(keystate[config.buttons[Z]]) input.pad[joynum] |= INPUT_Z;
         }
         if(keystate[config.buttons[MODE]])  input.pad[joynum] |= INPUT_MODE;
-        if (keystate[SDLK_ESCAPE] && keystate[SDLK_RETURN])
+        if (keystate[SDLK_RCTRL])
         {
             gotomenu=1;
         }
