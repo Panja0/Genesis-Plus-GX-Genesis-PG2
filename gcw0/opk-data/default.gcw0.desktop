@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Sega Genesis
+Name=Genesis
 Comment=Genesis Plus GX for PG2
 MimeType=application/zip;application/x-genesis-rom;application/x-megadrive-rom;application/x-sms-rom;application/x-cd-image;
 Exec=gen_gcw0 %f
