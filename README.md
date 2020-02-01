@@ -8,7 +8,7 @@ Except there was no way to have different configs for the different systems it e
 Another thing that bothered me is that the PG2 has a dedicated menu button but it doesn't work in the Genesis Plus GX releases that were available to date.
 
 I fixed both issues and have created 4 different versions.
-All 4 versions have the menu button mapped as... menu button.
+All 4 versions have the menu button mapped as... menu button. All 4 versions have a different icon.
 All 4 versions save their config in a different folder so that you can have different configs for the different systems.
 
 Genesis and Mega Drive are identical systems but some people prefer Genesis and others prefer Mega Drive. Your preference probably depends on your region. There for I created both.
